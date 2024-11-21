@@ -1,0 +1,26 @@
+Ques.1=Which keyword is used to define a function in Python?
+a.def
+b.func
+c.function
+d.define
+Ques.2=Which of the following is immutable in Python?
+a.List
+b.Set
+c.Dictionary
+d.Tuple
+Ques.3=How do you start a comment in Python?
+a.//
+b./*
+c.#
+d.<!--
+Ques.4=Which of the following is not a keyword in Python?
+a.pass
+b.eval
+c.assert
+d.foreach
+Ques.5=What is the output of '2 ** 3' in Python?
+a.6
+b.8
+c.9
+d.5
+

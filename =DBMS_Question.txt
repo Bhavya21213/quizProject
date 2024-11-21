@@ -1,0 +1,26 @@
+Ques.1=What does DBMS stand for?
+a.Database Management System
+b.Data Building and Management System
+c.Data Backup Management System
+d.Data Business Management System
+Ques.2=Which of the following is a type of database?
+a.Hierarchical
+b.Network
+c.Relational
+d.All of the above
+Ques.3=Which SQL statement is used to extract data from a database?
+a.GET
+b.EXTRACT
+c.SELECT
+d.FETCH
+Ques.4=What is a primary key?
+a.A unique identifier for a table
+b.A foreign key
+c.A duplicate key
+d.None of the above
+Ques.5=Which of the following is a NoSQL database?
+a.MySQL
+b.MongoDB
+c.Oracle
+d.SQLite
+

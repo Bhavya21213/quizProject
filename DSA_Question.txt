@@ -1,0 +1,25 @@
+Ques.1=What is the time complexity of binary search?
+a.O(n)
+b.O(log n)
+c.O(n^2)
+d.O(1)
+Ques.2=What does FIFO stand for in data structures?
+a.First In First Out
+b.Fast Input Fast Output
+c.First Input First Operation
+d.None of the above
+Ques.3=Which data structure is used in recursion?
+a.Stack
+b.Queue
+c.Linked List
+d.Array
+Ques.4=Which algorithm is used for finding the shortest path?
+a.Dijkstra's Algorithm
+b.Bubble Sort
+c.Depth First Search
+d.Quick Sort
+Ques.5=What is a stack overflow?
+a.When too many items are pushed onto a stack
+b.When the stack is empty
+c.When the stack is full
+d.None of the above
